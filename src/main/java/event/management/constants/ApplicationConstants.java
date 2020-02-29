@@ -6,4 +6,5 @@ public class ApplicationConstants {
 	public static final String MYSQL_HOSTNAME = "jdbc:mysql://remotemysql.com:3306/1we7tgAJsg?autoreconnect=true";
 	public static final String MYSQL_USERNAME = "1we7tgAJsg";
 	public static final String MYSQL_PASSWORD = "lilgtMgXJ3";
+	//test	
 }
